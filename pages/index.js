@@ -292,7 +292,7 @@ const Index = () => {
                     className="history-item"
                   >
                     <div className="date">2006 - 2018</div>
-                    <div className="name">M.Sc.Mathematicst</div>
+                    <div className="name">M.Sc.Mathematicst SET</div>
                     <div className="subname">New York University</div>
                   </div>
                 </div>

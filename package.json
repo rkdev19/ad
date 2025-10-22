@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
-  },
+    },
   "dependencies": {
     "isotope-layout": "^3.0.6",
     "jarallax": "^2.0.4",
